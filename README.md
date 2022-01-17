@@ -11,4 +11,5 @@ Caso você esteja participando desse Challenge e quer que seu projeto apareça a
 | Pessoa que criou o projeto | Projeto |
 | --- | --- |
 | <!-- CHANNEL_PROJECTS:START -->
-|<!-- CHANNEL_PROJECTS:END -->
+| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/gustavopassinato/challenge-Back-End'/>](https://github.com/gustavopassinato/challenge-Back-End) | [<img width='500px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://github.com/gustavopassinato/challenge-Back-End'/>](https://github.com/gustavopassinato/challenge-Back-End)
+| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/afnscbrl/Golang_Rest_API'/>](https://github.com/afnscbrl/Golang_Rest_API) | [<img width='500px' src='https://gerador-de-imagens-omariosouto-alura-challenges.vercel.app/api/image-generator?url=https://github.com/afnscbrl/Golang_Rest_API'/>](https://github.com/afnscbrl/Golang_Rest_API)<!-- CHANNEL_PROJECTS:END -->
